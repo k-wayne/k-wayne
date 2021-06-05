@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wkudoi@gmail.com
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I design living spaces for fun.
+<img src="https://www.canva.com/design/DAEgfVFqsOA/LMBm6Z3r-7dT8A8JMuVpow/watch?utm_content=DAEgfVFqsOA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+" alt="image text" title="imae Title" />
 
-https://www.canva.com/design/DAEgfVFqsOA/LMBm6Z3r-7dT8A8JMuVpow/watch?utm_content=DAEgfVFqsOA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
