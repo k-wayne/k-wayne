@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**k-wayne/k-wayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wkudoi@gmail.com
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I design living spaces for fun.
--->
+
