@@ -1,10 +1,15 @@
-### Hi there 👋, Wayne
-#### FullStack
 ![FullStack](https://github.com/k-wayne/k-wayne/blob/master/Happy%20Coding.gif?raw=true)
+
+### Hi there 👋,I'm Wayne
+#### FullStack Developer
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and Python( Django )
 
-Skills: VUE JS / REACT / JS / Python *(Django)
+## Skills and Experience
+* ⚛️   **_React, Angular_**
+* 💻   **_HTML, CSS, JavaScript_**
+* 📜   **_(Python (Django, Flask)_**
+
 
 - 🔭 I’m currently working on a Budget App. 
 - 🌱 I’m currently learning Django 
